@@ -1,10 +1,7 @@
-![18301](https://user-images.githubusercontent.com/29081638/212784451-29bf9179-51f9-4dc1-85b7-4f16ca720b7a.jpg)
 
 <h1 align="center">Hi 👋, I'm Uche Madu</h1>
 <h3 align="center">Data Engineer | Machine Learning Engineer | Cloud DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*36MELEhgZsPFuzlZvObnxA.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dreemer6" alt="dreemer6" /></a> </p>
 
 - 💬 Ask me about **Data Engineering, Machine Learning, GCP/AWS**
 
