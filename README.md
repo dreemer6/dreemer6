@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Uche Madu</h1>
+<h1 align="center">Hi 👋, I'm Dr. Uche Madu (DVM)</h1>
 <h3 align="center">Data Engineer | Machine Learning Engineer | Cloud DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*36MELEhgZsPFuzlZvObnxA.gif">
 
