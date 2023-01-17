@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Data Engineering, Machine Learning, GCP/AWS**
 
-- 📫 How to reach me **dreemer6@yahoo.com**
+- 📫 How to reach me **uche.iheanyi.madu@gmail.com**
 
 - ⚡ Fun fact **I play chess**
 
