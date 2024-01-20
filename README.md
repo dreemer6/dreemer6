@@ -3,7 +3,7 @@
 <h3 align="center">Data Engineer | Machine Learning Engineer | Cloud DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*36MELEhgZsPFuzlZvObnxA.gif">
 
-- 💬 Ask me about **Data Engineering, Machine Learning, GCP/AWS**
+- 💬 Ask me about **Data Engineering, Machine Learning, DevOps, GCP/AWS**
 
 - 📫 How to reach me **uche.iheanyi.madu@gmail.com**
 
